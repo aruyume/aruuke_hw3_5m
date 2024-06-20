@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aruuke_hw3_5m</string>
+    <string name="character_image">character_image</string>
+    <string name="name">Name</string>
+</resources>

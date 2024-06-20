@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/characterImage"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:scaleType="centerCrop"></ImageView>
+
+    <TextView
+        android:id="@+id/showName"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:padding="18dp"
+        android:text="@string/name"
+        android:textSize="20dp"></TextView>
+</LinearLayout>
